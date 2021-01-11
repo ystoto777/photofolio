@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+*, body {margin:0; padding:0;}
+img {position:absolute; top:0; left:0;}
+#center {position:absolute; width:25px;  height:25px; /*background-color:#F00;*/}
+.zoom-out {cursor:-moz-zoom-out; cursor:-webkit-zoom-out;}
+.zoom-in {cursor:-moz-zoom-in; cursor:-webkit-zoom-in;}
